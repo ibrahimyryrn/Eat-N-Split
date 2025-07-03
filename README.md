@@ -1,1 +1,1 @@
-Project Link: https://eat-n-split-smht.vercel.app/
+Project Link: https://eat-n-split-ten-tau.vercel.app/
